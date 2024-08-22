@@ -1,2 +1,4 @@
-node_moduls 
+.DS_store
+**/.DS_Store
+node_modules
 .env
